@@ -67,11 +67,11 @@
 15
 
 1. # <a name="_toc79515938"></a><a name="_toc141495606"></a>**GIỚI THIỆU ĐỀ TÀI**
-`    `[Buồng ấp trứng tự động là một hệ thống gồm các thiết bị có nhiệm vụ cảm biến và](https://quocnam.com.vn/san-pham/bao-chay-hochiki-san-pham) theo dõi trạng thái của buồng ấp; thông báo qua cơ cấu đèn LED và còi; hiển thị trạng thái nhiệt độ, độ ẩm, thời gian,..lên màn hình. 
+Buồng ấp trứng tự động là một hệ thống gồm các thiết bị có nhiệm vụ cảm biến và theo dõi trạng thái của buồng ấp; thông báo qua cơ cấu đèn LED và còi; hiển thị trạng thái nhiệt độ, độ ẩm, thời gian,..lên màn hình. 
 
-`   `Một hệ thống gồm tập hợp các thiết bị có nhiệm vụ phát hiện, thông báo và hiển thị trạng thái của buồng ấp trứng. Việc phát hiện ra nhiệt độ và độ ẩm có thể được thực hiện tự động bởi các thiết bị cảm biến. Hệ thống sẽ tự động phát hiện ra nhiệt độ và độ ẩm một cách nhanh chóng, chính xác và kịp thời trong vùng hệ thống đang đặt cảm biến. Tự động phát ra các tín hiệu báo động, chỉ thị và các tín hiệu điều khiển các thiết bị ngoại vi của hệ thống ấp trứng tự động nhằm thực hiện một nhiệm vụ cụ thể nào đó. Đặc biệt, với hệ thống buồng ấp trứng tự động sử dụng cảm biến nhiệt độ, độ ẩm thì nó còn có nhiệm vụ quan trọng hơn là thông báo và hiển thị những thông số trạng thái.
+Một hệ thống gồm tập hợp các thiết bị có nhiệm vụ phát hiện, thông báo và hiển thị trạng thái của buồng ấp trứng. Việc phát hiện ra nhiệt độ và độ ẩm có thể được thực hiện tự động bởi các thiết bị cảm biến. Hệ thống sẽ tự động phát hiện ra nhiệt độ và độ ẩm một cách nhanh chóng, chính xác và kịp thời trong vùng hệ thống đang đặt cảm biến. Tự động phát ra các tín hiệu báo động, chỉ thị và các tín hiệu điều khiển các thiết bị ngoại vi của hệ thống ấp trứng tự động nhằm thực hiện một nhiệm vụ cụ thể nào đó. Đặc biệt, với hệ thống buồng ấp trứng tự động sử dụng cảm biến nhiệt độ, độ ẩm thì nó còn có nhiệm vụ quan trọng hơn là thông báo và hiển thị những thông số trạng thái.
 
-`  `Nông nghiệp luôn đóng vai trò quan trọng trong đời sống con người. Với sự gia tăng dân số và nhu cầu về thực phẩm ngày càng tăng cao, việc cải thiện hiệu suất và năng suất trong ngành nông nghiệp trở nên cực kỳ cần thiết. Trong lĩnh vực chăn nuôi, quá trình ấp trứng đóng một vai trò then chốt để duy trì và phát triển đàn gia cầm. Nhận thấy cần thiết phải tạo ra một hệ thống giúp nâng cao hiệu suất và tối ưu hóa quá trình ấp trứng  nên nhóm chúng em quyết định nghiên cứu về đề tài hệ thống báo cháy đơn giản có quy mô hộ gia đình.
+Nông nghiệp luôn đóng vai trò quan trọng trong đời sống con người. Với sự gia tăng dân số và nhu cầu về thực phẩm ngày càng tăng cao, việc cải thiện hiệu suất và năng suất trong ngành nông nghiệp trở nên cực kỳ cần thiết. Trong lĩnh vực chăn nuôi, quá trình ấp trứng đóng một vai trò then chốt để duy trì và phát triển đàn gia cầm. Nhận thấy cần thiết phải tạo ra một hệ thống giúp nâng cao hiệu suất và tối ưu hóa quá trình ấp trứng  nên nhóm chúng em quyết định nghiên cứu về đề tài hệ thống báo cháy đơn giản có quy mô hộ gia đình.
 
 
 
@@ -354,24 +354,24 @@ Qua việc nghiên cứu đề tài, nhóm chúng em đã tự rút ra được 
 
 
 # <a name="_toc79515943"></a><a name="_toc141495623"></a>**DANH MỤC HÌNH VẼ**
-[Hình 1. Mạch Arduino Uno R3	3](C:/Users/ADMIN/Desktop/BTL KTLT.docx#_Toc79523555)
+![Hình 1. Mạch Arduino Uno R3	3](http://mlab.vn/image/data/Bai%20viet%20ky%20thuat/Arduino/bai%202%20Nhung%20dieu%20co%20ban/ArduinoUnoR3.jpg))
 
-[Hình 2. Cảm biến DHT11	3](C:/Users/ADMIN/Desktop/BTL KTLT.docx#_Toc79523556)
+![Hình 2. Cảm biến DHT11	3](https://nshopvn.com/wp-content/uploads/2019/03/module-cam-bien-do-am-nhiet-do-dht11-UIJ3-2020-600x600.jpg)
 
-[Hình 3. Màn hình LCD 1602	3](C:/Users/ADMIN/Desktop/BTL KTLT.docx#_Toc79523557)
+![Hình 3. Màn hình LCD 1602	3](https://nshopvn.com/wp-content/uploads/2019/03/man-hinh-lcd-1602-xanh-la-67HZ-2020-600x600.jpg)
 
-[Hình 4. Rơ-le 5VDC	3](C:/Users/ADMIN/Desktop/BTL KTLT.docx#_Toc79523558)
+![Hình 4. Rơ-le 5VDC	3](https://chipviet.vn/wp-content/uploads/2019/12/1_MACH-DEM-RELAY-1-KENH-5V-10A.jpg)
 
-[Hình 5. Còi Buzzer báo động	5](#_toc79523559)
+![Hình 5. Còi Buzzer báo động	5](https://nshopvn.com/wp-content/uploads/2019/03/coi-buzz-thu-dong-5v-xsqe-1-600x600.jpg)
 
-[Hình 6. Motor 3V	5](#_toc79523559)
+![Hình 6. Motor 3V	5](https://bizweb.dktcdn.net/thumb/1024x1024/100/251/524/products/z2660621500628-c46040939cef504e82d0d3ec1267cb89-df2cc177-2d66-41ae-9395-b48cab9009bb.jpg?v=1676456976013)
 
-[Hình 7. Đèn Led 5mm	5](#_toc79523559)
+![Hình 7. Đèn Led 5mm	5](https://bizweb.dktcdn.net/100/408/906/products/led-7-mau-2-chan-3vdc-5mm-1-7d832712-a976-4e81-b316-5aaaf99789bf.jpg?v=1616560389000)
 
-[Hình 8. Giao diện Qt trên máy tính	9](C:/Users/ADMIN/Desktop/BTL KTLT.docx#_Toc79523560)
+[Hình 8. Giao diện Qt trên máy tính	9](https://github.com/tuanpd205459/buong-ap-trung/blob/main/giao-dien-qt.png)
 
 
 # <a name="_toc141495624"></a>**DANH MỤC BẢNG BIỂU**
-[Bảng 1. Sơ đồ đấu nối	4](#_toc79523417)
+[Bảng 1. Sơ đồ đấu nối	4](https://github.com/tuanpd205459/buong-ap-trung/blob/main/Proteus/so-do-mach.png)
 
 
