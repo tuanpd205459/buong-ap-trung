@@ -5,7 +5,7 @@
 **Kỹ thuật lập trình trong Cơ điện tử** 
 
 
-![Giao diện chính]([https://ibb.co/Xk7J1BXC])
+![Giao diện chính]([https://i.ibb.co/BKysbDLC/giao-dien-qt.png])
 
 
 **MỤC LỤC**
