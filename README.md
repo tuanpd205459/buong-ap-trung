@@ -5,6 +5,7 @@
 **Kỹ thuật lập trình trong Cơ điện tử** 
 
 
+![Giao diện chính]([https://github.com/tuanpd205459/buong-ap-trung/blob/main/giao-dien-qt.png?raw=true])
 
 
 **MỤC LỤC**
