@@ -4,19 +4,6 @@
 
 **Kỹ thuật lập trình trong Cơ điện tử** 
 
-**Đề tài: *Buồng ấp trứng tự động***
-
-
-
-
-<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1">`        `Chữ ký</th></tr>
-<tr><td colspan="1" rowspan="3" valign="top"><b>Sinh viên thực hiện:</b></td><td colspan="1" valign="top">Nguyễn Văn An 20205237</td><td colspan="1">`         `…………</td></tr>
-<tr><td colspan="1" valign="top">Phan Đình Tuấn 20205459</td><td colspan="1">`         `…………</td></tr>
-<tr><td colspan="1" valign="top">Võ Minh Vương 20205518</td><td colspan="1">`         `…………</td></tr>
-<tr><td colspan="1" valign="top"><b>Lớp</b></td><td colspan="1" valign="top">141455</td><td colspan="1"></td></tr>
-<tr><td colspan="1" valign="top"><b>Giảng viên hướng dẫn:</b></td><td colspan="1" valign="top">TS. Nguyễn Thành Hùng</td><td colspan="1" valign="top">    </td></tr>
-<tr><td colspan="3" valign="top"><p></p><p><b>HÀ NỘI, 8/2022</b></p></td></tr>
-</table>
 
 
 
